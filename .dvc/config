@@ -1,6 +1,6 @@
 [core]
-    remote = myremote
+    remote = remote_storage
 ['remote "remote_storage"']
-    url = ../Talem
+    url = /Talem/dvc_remote
 ['remote "myremote"']
     url = ../Home/Talem/dvc_remote
