@@ -1,5 +1,7 @@
 [core]
     remote = remote_storage
+[cache]
+    dir = /home/hardik/dvc-shared-cache
 ['remote "remote_storage"']
     url = /home/hardik/dvc_remote
 ['remote "myremote"']
